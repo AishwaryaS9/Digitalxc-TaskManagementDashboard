@@ -164,4 +164,4 @@ taskmanager/
 
 ## Deployed Application
 
-Check out the live version of the app here: [Task Management Dashboard]()
+Check out the live version of the app here: [Task Management Dashboard](https://digitalxc-task-management-dashboard.vercel.app/)
